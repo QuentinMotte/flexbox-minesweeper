@@ -8,4 +8,4 @@ Exercice when we have to do a design of a minesweeper.
 
 HTML-CSS & a little JS
 
-My link ->
+My link -> https://quentinmotte.github.io/flexbox-minesweeper/
