@@ -1,0 +1,77 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+section {
+    min-width: 420px;
+    max-width: 420px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 10px inset;
+    margin: 0 auto;
+}
+.dot,
+.full {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 50px;
+    min-width: 50px;
+    font-size: 1.8rem;
+    font-weight: 700;
+    background: rgb(235, 232, 232);
+}
+.hide {
+    cursor: pointer;
+}
+span {
+    opacity: 0;
+}
+.active-ful {
+    cursor: pointer;
+}
+.active {
+    opacity: 1 !important;
+}
+
+.dot {
+    border-bottom: 4px dotted black;
+    border-left: 4px dotted black;
+}
+.full {
+    border: outset 5px rgb(228, 225, 225);
+    background: rgb(201, 194, 194);
+}
+
+.left {
+    border-left: none;
+}
+.left1 {
+    border-bottom: 4px dotted black;
+    border-left: 4px dotted black;
+}
+.bot {
+    display: none;
+}
+.active-full {
+    opacity: 1 !important;
+}
+.right {
+    border-right: 4px dotted black;
+}
+.green {
+    color: rgb(27, 209, 27);
+}
+.blue {
+    color: blue;
+}
+.red {
+    color: red;
+}
+
+.border {
+    border-right: dotted 4px black;
+    border-bottom: dotted 4px black;
+    background: rgb(235, 232, 232);
+}
