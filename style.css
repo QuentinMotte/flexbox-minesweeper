@@ -3,13 +3,14 @@
     margin: 0;
     box-sizing: border-box;
 }
+/*  */
 section {
     min-width: 420px;
     max-width: 420px;
     display: flex;
     flex-wrap: wrap;
     border: 10px inset;
-    margin: 0 auto;
+    margin: 25% auto;
 }
 .dot,
 .full {
