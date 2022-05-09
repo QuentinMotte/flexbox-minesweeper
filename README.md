@@ -2,7 +2,7 @@
 
 ## Introduction HTML/CSS
 
-Exercice when we have to do a design of a minesweeper.
+Exercice when we have to do a design of a minesweeper using flexbox.
 
 ## Technology
 
